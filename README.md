@@ -1,6 +1,6 @@
 ## Functionality overview
 
-The application I used is a social blogging site called "Conduit". It uses a custom API for all requests, including authentication. You can access it here: https://angular.realworld.io
+The application I used is a social blogging site called "Conduit". It uses a custom API for all requests, including authentication. You can access it here: https://angular.realworld.how/
 
 **General functionality:**
 
